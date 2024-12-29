@@ -8,6 +8,11 @@ Welcome to my GitHub profile! I'm an IT student passionate about technology, cod
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 ## 🛠️ **About Me**  
 - 🎓 **BSIT Student** at [Your University/School]  
 - 💻 **Specializing in**: Web Development, Software Development, and Graphic Design  
@@ -67,3 +72,7 @@ Here are some of the projects I’m proud of:
 
 <!-- Footer Banner -->
 ![Footer Banner](https://via.placeholder.com/1200x200.png?text=Thanks+for+visiting!+✨)
+
+
+
+
