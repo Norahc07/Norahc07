@@ -52,17 +52,23 @@ I enjoy exploring full-stack development, problem-solving, and clean design.
 
 ---
 
-
 ### 🧑‍💻 **About Me**
-- 🎓 BSIT Student at **Manuel S. Enverga University Foundation**  
-- 💻 Focused on: **Web Development, Software Engineering, and UI/UX Design**  
-- 🌱 Currently Exploring: **Advanced Java**, **Linux**, **Cloud Computing**  
-- 🔭 Working On:
-- 🌐 Personal **Portfolio Website**
-- 💻 **Java-Based Book Management System**
-- 🎥 **Movie Seat Reservation App**
-- ☕ Fun Fact: *Coffee + Code = Infinite Creativity*
 
+I'm a passionate **BSIT Student** at **Manuel S. Enverga University Foundation** driven by the desire to build innovative, technology-driven solutions. My focus is on creating clean, efficient code and outstanding user experiences.
+
+- **Current Focus Areas:**
+    - **Web Development** (Full-Stack)
+    - **Software Engineering**
+    - **UI/UX Design**
+- **Currently Exploring & Learning:**
+    - Advanced Concepts in **Java**
+    - **Linux** System Administration
+    - **Cloud Computing** Fundamentals (e.g., AWS/Azure)
+- **What I'm Working On Now:**
+    - 🌐 Developing a professional **Personal Portfolio Website**
+    - 💻 Building a comprehensive **Java-Based Book Management System**
+    - 🎥 Designing a **Movie Seat Reservation App** for a modern user experience
+- **Fun Fact:** My best work happens after a fresh cup of coffee. ☕ Code + Coffee = Infinite Creativity!
 
 ---
 
