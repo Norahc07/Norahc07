@@ -59,9 +59,13 @@ Welcome to my GitHub profile! I'm an IT student passionate about technology, cod
 
 ---
 
-## 📊 **GitHub Stats**  
-![Luigi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+  <h2>📊 GitHub Stats</h2>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=luigiamarillo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Luigi's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luigiamarillo&theme=github-dark-blue&hide_border=true" alt="Luigi's GitHub Streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigiamarillo&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
 
 ---
 
