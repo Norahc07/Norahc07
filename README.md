@@ -1,19 +1,56 @@
-<!-- Banner Section -->
 <div align="center">
+  <!-- Welcome Banner -->
   <img src="https://img.shields.io/badge/Welcome%20to%20My%20Repo-%F0%9F%91%8B-%2331C48D?style=for-the-badge&logo=github" alt="Welcome Banner"/>
   
-  <h1>Welcome Everyone!</h1>
-  <p>I'm glad you're here! Explore, contribute, or just take a look around.</p>
+  <h1>Welcome to My Repository!</h1>
+  <p>We're glad you're here! Explore, contribute, or just take a look around.</p>
 
   <br>
-  <a href="#features"><button style="padding: 10px 20px; font-size: 18px; color: white; background-color: #2d333b; border-radius: 5px; border: none;">Check Out Features</button></a>
-</div>
+  <a href="#features">
+    <button style="padding: 10px 20px; font-size: 18px; color: white; background-color: #2d333b; border-radius: 5px; border: none;">Check Out Features</button>
+  </a>
 
+  <br><br>
+
+  ---
 
 # 👋 Hi, I'm **Luigi Amarillo**!  
 ### 🚀 **Future IT Professional | Developer | Innovator**
 
-Welcome to my GitHub profile! I'm an IT student passionate about technology, coding, and creating innovative solutions. 🌟  
+Welcome to my GitHub profile! I'm an IT student passionate about technology, coding, and creating innovative solutions. 🌟
+  
+  ---
+
+  <!-- Languages Section -->
+  <h3>Languages</h3>
+  <div>
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" title="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" title="CSS3"/>
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" title="JavaScript"/>
+    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python" title="Python"/>
+    <img src="https://img.shields.io/badge/Java-%23007396.svg?style=flat-square&logo=java&logoColor=white" alt="Java" title="Java"/>
+  </div>
+
+  <br>
+
+  <!-- Tools & Frameworks Section -->
+  <h3>Tools & Frameworks</h3>
+  <div>
+    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white" alt="React" title="React"/>
+    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" title="Node.js"/>
+    <img src="https://img.shields.io/badge/Git-%23F1502F.svg?style=flat-square&logo=git&logoColor=white" alt="Git" title="Git"/>
+    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" title="Docker"/>
+  </div>
+
+  <br>
+
+  <!-- Databases Section -->
+  <h3>Databases</h3>
+  <div>
+    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" title="MySQL"/>
+    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB"/>
+  </div>
+</div>  
 
 ---
 
@@ -31,27 +68,6 @@ Welcome to my GitHub profile! I'm an IT student passionate about technology, cod
   - 💻 A Java-Based Book Management System  
   - 🎥 A Movie Seat Reservation System  
 - 💡 **Fun Fact**: I believe coffee fuels creativity ☕ + 💻 = 🚀  
-
----
-
-## 🚀 **Tech Stack**  
-
-### **Languages**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
-
-### **Tools & Frameworks**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-
-### **Databases**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
 
 ---
 
