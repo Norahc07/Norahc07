@@ -52,23 +52,14 @@ I enjoy exploring full-stack development, problem-solving, and clean design.
 
 ---
 
-### 🧑‍💻 **About Me**
+### 🧑‍💻 **About Me | My Current Development Track**
 
-I'm a passionate **BSIT Student** at **Manuel S. Enverga University Foundation** driven by the desire to build innovative, technology-driven solutions. My focus is on creating clean, efficient code and outstanding user experiences.
-
-- **Current Focus Areas:**
-    - **Web Development** (Full-Stack)
-    - **Software Engineering**
-    - **UI/UX Design**
-- **Currently Exploring & Learning:**
-    - Advanced Concepts in **Java**
-    - **Linux** System Administration
-    - **Cloud Computing** Fundamentals (e.g., AWS/Azure)
-- **What I'm Working On Now:**
-    - 🌐 Developing a professional **Personal Portfolio Website**
-    - 💻 Building a comprehensive **Java-Based Book Management System**
-    - 🎥 Designing a **Movie Seat Reservation App** for a modern user experience
-- **Fun Fact:** My best work happens after a fresh cup of coffee. ☕ Code + Coffee = Infinite Creativity!
+| Focus & Learning | Active Projects |
+| :--- | :--- |
+| **🚀 Current Focus Areas** | **🛠️ What I'm Working On Now** |
+| <ul><li>**Web Development** (Full-Stack)</li><li>**Software Engineering**</li><li>**UI/UX Design**</li></ul> | <ul><li>🌐 Professional **Personal Portfolio Website**</li><li>💻 Comprehensive **Java-Based Book Management System**</li><li>🎥 Modern **Movie Seat Reservation App**</li></ul> |
+| **🧠 Currently Exploring & Learning** | **💡 Fun Fact** |
+| <ul><li>Advanced Concepts in **Java**</li><li>**Linux** System Administration</li><li>**Cloud Computing** Fundamentals (e.g., AWS/Azure)</li></ul> | My best work happens after a fresh cup of coffee. ☕ Code + Coffee = **Infinite Creativity!** |
 
 ---
 
