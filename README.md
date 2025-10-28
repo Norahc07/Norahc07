@@ -52,6 +52,7 @@ I enjoy exploring full-stack development, problem-solving, and clean design.
 
 ---
 
+<div>
 ### 🧑‍💻 **About Me**
 - 🎓 BSIT Student at **Manuel S. Enverga University Foundation**  
 - 💻 Focused on: **Web Development, Software Engineering, and UI/UX Design**  
@@ -61,6 +62,7 @@ I enjoy exploring full-stack development, problem-solving, and clean design.
 - 💻 **Java-Based Book Management System**
 - 🎥 **Movie Seat Reservation App**
 - ☕ Fun Fact: *Coffee + Code = Infinite Creativity*
+</div>
 
 ---
 
