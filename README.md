@@ -57,7 +57,7 @@ I enjoy exploring full-stack development, problem-solving, and clean design.
 | Focus & Learning | Active Projects |
 | :--- | :--- |
 | **🚀 Current Focus Areas** | **🛠️ What I'm Working On Now** |
-| <ul><li>**Web Development** (Full-Stack)</li><li>**Software Engineering**</li><li>**UI/UX Design**</li></ul> | <ul><li>🌐 Professional **Personal Portfolio Website**</li><li>💻 Comprehensive **Java-Based Book Management System**</li><li>🎥 Modern **Movie Seat Reservation App**</li></ul> |
+| <ul><li>**Web Development** (Front-end)</li><li>**Graphic Designer**</li><li>**UI/UX Design**</li></ul> | <ul><li>🌐 Professional **Personal Portfolio Website**</li><li>💻 Comprehensive **Java-Based Book Management System**</li><li>🎥 Modern **Movie Seat Reservation App**</li></ul> |
 | **🧠 Currently Exploring & Learning** | **💡 Fun Fact** |
 | <ul><li>Advanced Concepts in **Java**</li><li>**Linux** System Administration</li><li>**Cloud Computing** Fundamentals (e.g., AWS/Azure)</li></ul> | My best work happens after a fresh cup of coffee. ☕ Code + Coffee = **Infinite Creativity!** |
 
