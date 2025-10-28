@@ -50,8 +50,11 @@ I enjoy exploring full-stack development, problem-solving, and clean design.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Norahc07&layout=compact&theme=tokyonight&hide_border=true" height="140" alt="Top Languages"/>
 </div>
 
+<br>
 <div align="center">
-  ![GitHub Profile Views](https://komarev.com/ghpvc/?username=Norahc07&color=7952B3)
+  <p>
+    ![GitHub Profile Views](https://komarev.com/ghpvc/?username=Norahc07&color=7952B3)
+  </p>
 </div>
 
 ---
