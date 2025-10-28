@@ -57,9 +57,9 @@ I enjoy exploring full-stack development, problem-solving, and clean design.
 - 💻 Focused on: **Web Development, Software Engineering, and UI/UX Design**  
 - 🌱 Currently Exploring: **Advanced Java**, **Linux**, **Cloud Computing**  
 - 🔭 Working On:
-  - 🌐 Personal **Portfolio Website**
-  - 💻 **Java-Based Book Management System**
-  - 🎥 **Movie Seat Reservation App**
+- 🌐 Personal **Portfolio Website**
+- 💻 **Java-Based Book Management System**
+- 🎥 **Movie Seat Reservation App**
 - ☕ Fun Fact: *Coffee + Code = Infinite Creativity*
 
 ---
