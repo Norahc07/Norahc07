@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm an IT student passionate about technology, cod
 </div>
 
 ## 🛠️ **About Me**  
-- 🎓 **BSIT Student** at [Your University/School]  
+- 🎓 **BSIT Student** at Manuel S. Enverga University Foundation.  
 - 💻 **Specializing in**: Web Development, Software Development, and Graphic Design  
 - 🌱 **Currently Learning**: Advanced Java Programming, Linux Systems, and Cloud Computing  
 - 🔭 **Working on**:  
