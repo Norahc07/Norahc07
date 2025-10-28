@@ -1,18 +1,6 @@
 <div align="center">
   <!-- Welcome Banner -->
   <img src="https://img.shields.io/badge/Welcome%20to%20My%20Repo-%F0%9F%91%8B-%2331C48D?style=for-the-badge&logo=github" alt="Welcome Banner"/>
-  
-  <h1>Welcome to My Repository!</h1>
-  <p>We're glad you're here! Explore, contribute, or just take a look around.</p>
-
-  <br>
-  <a href="#features">
-    <button style="padding: 10px 20px; font-size: 18px; color: white; background-color: #2d333b; border-radius: 5px; border: none;">Check Out Features</button>
-  </a>
-
-  <br><br>
-
-  ---
 
 # 👋 Hi, I'm **Luigi Amarillo**!  
 ### 🚀 **Future IT Professional | Developer | Innovator**
